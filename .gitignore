@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+.venv/
+venv/
+.verify/
+.pypub/
+Commande ECHO activ‚e.
+# Build artifacts
+build/
+dist/
+*.egg-info/
+Commande ECHO activ‚e.
+# IDE
+.idea/
+.vscode/
